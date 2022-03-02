@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ikejlemieux
-- 👀 I’m interested in client and server side web development
+- 👀 I’m interested in GNU/Linux along with client and server side web development
 - 🌱 I’m currently learning python but i like learning bits and pieces of everything
 
 
