@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ikejlemieux
 - 👀 I’m interested in GNU/Linux along with client and server side web development
-- 🌱 I’m currently learning python but i like learning bits and pieces of everything
+- 🌱 I’m currently learning NodeJs but i like learning bits and pieces of everything
 - I use Pop!_OS by System76
 
 <!---
